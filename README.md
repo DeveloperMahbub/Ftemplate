@@ -1,2 +1,2 @@
 # Ftemplate
-html demo template
+Finix html demo template
